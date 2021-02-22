@@ -16,12 +16,19 @@ Hola me llamo Leander Perez y me gusta considerarme un Backend Developer y SEO, 
 * Go (Golang)
 * Javascript
 
+## Frameworks
+* ASP.NET (MVC, API)
+* Flask
+
 ## Tools and other
 * Git
 * Docker
 * Linux
+* Entity Framework
 * AWS
 * Visual Studio 2019
 * Visual Studio Code
 
-
+##  You can catch me on:
+* [Twitter](https://twitter.com/leanderperez_)
+* [LinkedIn](https://www.linkedin.com/in/leander-perez/)
