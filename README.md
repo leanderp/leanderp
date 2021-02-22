@@ -1,3 +1,5 @@
+![GitHub Logo](https://raw.githubusercontent.com/leanderp/leanderp/main/logo1.jpg)
+
 ## Hi  👋
 
 Hello my name is Leander Perez and I like to consider myself a Backend Developer and SEO, I work with the technology that fits the business model. I am proficient in .NET (C#), Python, Go and Javascript programming languages. Solid knowledge in SQL database management (MySql and SQL Server). I have worked as a web developer, data analyst and SEO consultant (Onpage and Offpage).
