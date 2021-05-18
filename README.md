@@ -25,7 +25,7 @@ Hola me llamo Leander Perez y me gusta considerarme un Backend Developer y SEO, 
 * Docker
 * Linux
 * Entity Framework
-* AWS
+* Azure
 * Visual Studio 2019
 * Visual Studio Code
 
