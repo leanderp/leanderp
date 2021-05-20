@@ -21,14 +21,17 @@ Hola me llamo Leander Perez y me gusta considerarme un Backend Developer y SEO, 
 * Javascript
 
 ## Frameworks
-* ASP.NET (MVC, API)
+* ASP.NET (MVC, WEB API)
 * Flask
 
 ## Tools and other
 * Git
+* Swagger
 * Docker
+* LINQ
 * Linux
 * Entity Framework
+* Dapper
 * Azure
 * Visual Studio 2019
 * Visual Studio Code
