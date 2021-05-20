@@ -10,6 +10,10 @@ Hello my name is Leander Perez and I like to consider myself a Backend Developer
 Hola me llamo Leander Perez y me gusta considerarme un Backend Developer y SEO, me desenvuelvo con la tecnología que se adapte al modelo del negocio. Manejo los lenguajes de programacion .NET (C#), Python, Go y Javascript. Sólidos conocimientos en gestión de base de datos SQL (MySql y SQL Server). Además que he laborado como desarrollador web, analista de datos y consultor SEO (Onpage y Offpage).
 
 ## Languages
+* Spanish (Native)
+* English (A2, Basic intermediate) 
+
+## Programming languages
 * C# (.NET) - Principal
 * Python
 * SQL (MySql and SQL Server)
