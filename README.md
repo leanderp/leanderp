@@ -29,6 +29,7 @@ Hola me llamo Leander Perez y me gusta considerarme un Backend Developer y SEO, 
 * Git
 * Swagger
 * Docker
+* Testing (NUnit, MSTest)
 * LINQ
 * Linux
 * Entity Framework
