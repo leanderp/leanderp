@@ -56,6 +56,8 @@ Hola me llamo Leander Perez y me gusta considerarme un Backend Developer y SEO, 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="swagger" width="40" height="40"/>
+<img src="https://azure.microsoft.com/svghandler/signalr-service/?width=40&height=40" alt="Signalr" width="40" height="40"/>
+<img src="https://www.fixedbuffer.com/wp-content/uploads/2018/09/EFCore.png" alt="entity framework EF Core" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
