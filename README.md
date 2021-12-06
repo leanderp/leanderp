@@ -2,7 +2,7 @@
 
 ## Hi  👋
 
-Hello my name is Leander Perez and I like to consider myself a Backend Developer and SEO, I work with the technology that fits the business model. I am proficient in .NET (C#), Python, C++, Go and Javascript programming languages. Solid knowledge in SQL database management (MySql and SQL Server). I have worked as a web developer, data analyst and SEO consultant (Onpage and Offpage).
+Hello my name is Leander Perez and I like to consider myself a Backend Developer and SEO, I work with the technology that fits the business model. I am proficient in .NET (C#), Python, Go and Javascript programming languages. Solid knowledge in SQL database management (MySql and SQL Server). I have worked as a web developer, data analyst and SEO consultant (Onpage and Offpage).
 
 
 ## Hola  👋
@@ -17,7 +17,6 @@ Hola me llamo Leander Perez y me gusta considerarme un Backend Developer y SEO, 
 * C# (.NET) - Principal
 * Python
 * SQL (MySql and SQL Server)
-* C++
 * Go (Golang)
 * Javascript
 
