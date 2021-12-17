@@ -35,7 +35,7 @@ Hola me llamo Leander Perez y me gusta considerarme un Backend Developer y SEO, 
 * Entity Framework
 * Dapper
 * Azure
-* Visual Studio 2019
+* Visual Studio
 * Visual Studio Code
 
 <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/456px-.NET_Logo.svg.png" alt="dotnet" width="40" height="40"/>
