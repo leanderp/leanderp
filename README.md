@@ -2,12 +2,12 @@
 
 ## Hi  👋
 
-Hello my name is Leander Perez and I like to consider myself a Backend Developer and SEO, I work with the technology that fits the business model. I am proficient in .NET (C#), Python, Go and Javascript programming languages. Solid knowledge in SQL database management (MySql and SQL Server). I have worked as a web developer, data analyst and SEO consultant (Onpage and Offpage).
+Hello my name is Leander Perez and I like to consider myself a Backend Developer and SEO, I work with the technology that fits the business model. I am proficient in .NET (C#), Python and Go programming languages. Solid knowledge in SQL database management (MySql and SQL Server). I have worked as a web developer, data analyst and SEO consultant (Onpage and Offpage).
 
 
 ## Hola  👋
 
-Hola me llamo Leander Perez y me gusta considerarme un Backend Developer y SEO, me desenvuelvo con la tecnología que se adapte al modelo del negocio. Manejo los lenguajes de programacion .NET (C#), Python, Go y Javascript. Sólidos conocimientos en gestión de base de datos SQL (MySql y SQL Server). Además que he laborado como desarrollador web, analista de datos y consultor SEO (Onpage y Offpage).
+Hola me llamo Leander Perez y me gusta considerarme un Backend Developer y SEO, me desenvuelvo con la tecnología que se adapte al modelo del negocio. Manejo los lenguajes de programacion .NET (C#), Python and Go. Sólidos conocimientos en gestión de base de datos SQL (MySql y SQL Server). Además que he laborado como desarrollador web, analista de datos y consultor SEO (Onpage y Offpage).
 
 ## Languages
 * Spanish (Native)
@@ -16,14 +16,16 @@ Hola me llamo Leander Perez y me gusta considerarme un Backend Developer y SEO, 
 ## Programming languages
 * C# (.NET) - Principal
 * Python
+* * Go (Golang)
 * SQL (MySql and SQL Server)
-* Go (Golang)
 * Javascript
 
 ## Frameworks
 * ASP.NET (MVC, WEB API)
 * WPF
 * Flask
+* Gin
+* Fiber
 
 ## Tools and other
 * Git
@@ -41,7 +43,6 @@ Hola me llamo Leander Perez y me gusta considerarme un Backend Developer y SEO, 
 <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/456px-.NET_Logo.svg.png" alt="dotnet" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 <img src="https://www.programandoamedianoche.com/wp-content/uploads/2008/09/asp.net_.logo_.png" alt="asp.net" width="40" height="40"/>  
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
