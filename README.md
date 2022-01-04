@@ -36,6 +36,7 @@ Hola me llamo Leander Perez y me gusta considerarme un Backend Developer y SEO, 
 * Linux
 * Entity Framework
 * Dapper
+* GORM
 * Azure
 * Visual Studio
 * Visual Studio Code
