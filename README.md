@@ -16,7 +16,7 @@ Hola me llamo Leander Perez y me gusta considerarme un Backend Developer y SEO, 
 ## Programming languages
 * C# (.NET) - Principal
 * Python
-* * Go (Golang)
+* Go (Golang)
 * SQL (MySql and SQL Server)
 * Javascript
 
