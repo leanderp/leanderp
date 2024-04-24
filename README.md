@@ -26,6 +26,7 @@ Hola me llamo Leander Perez y me gusta considerarme un Backend Developer y SEO, 
 * ASP.NET (MVC, WEB API)
 * WPF
 * Flask
+* Django
 * Laravel
 * Express
 * Gin
