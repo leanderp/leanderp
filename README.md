@@ -19,7 +19,7 @@ Hola me llamo Leander Perez y me gusta considerarme un Backend Developer y SEO, 
 * PHP
 * Typescript (TS)
 * Go (Golang)
-* SQL (MySql and SQL Server)
+* SQL (MySql, Postgress and SQL Server)
 
 
 ## Frameworks
